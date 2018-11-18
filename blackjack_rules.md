@@ -1,4 +1,4 @@
-Blackjack rules:
+# Blackjack rules
 
 These were based on the rules found on https://www.bicyclecards.com/how-to-play/blackjack/, with a couple of changes.
 

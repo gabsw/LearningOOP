@@ -1,4 +1,4 @@
-Guessing Game Rules:
+# Guessing Game Rules
 
 The game consists of 4 hidden numbers, ranging from 0 to 9, and the player must guess all the numbers in the correct position in 10 tries. If the player fails to guess the correct digits, you should print how many numbers he guessed in the correct position and how many numbers he guessed in the wrong position (that is, the number is part of the answer, but should be at a different position).
 
